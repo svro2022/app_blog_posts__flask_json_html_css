@@ -1,7 +1,5 @@
 # APP: blog with posts (FLASK_HTML_CSS_JSON) <br>
 
-
-
 > **app.py** - файл запуска программы <br>
 
 ---
